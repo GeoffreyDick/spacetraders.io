@@ -4,6 +4,8 @@ import { render } from "solid-js/web";
 import "@unocss/reset/tailwind-compat.css";
 import "virtual:uno.css";
 
+import "@fontsource/space-mono"
+
 import App from "./App";
 
 const root = document.getElementById("root");

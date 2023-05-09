@@ -1,6 +1,9 @@
 lockfileVersion: '6.0'
 
 dependencies:
+  '@fontsource/space-mono':
+    specifier: ^4.5.12
+    version: 4.5.12
   '@unocss/reset':
     specifier: ^0.51.12
     version: 0.51.12
@@ -565,6 +568,10 @@ packages:
     requiresBuild: true
     dev: true
     optional: true
+
+  /@fontsource/space-mono@4.5.12:
+    resolution: {integrity: sha512-/ljrJgSIB/C0jUCn07r/V/KpkdHF9bnK2fD0raGSVkgQjFqQ6Q3LndVeBiUCJlIi6ROh7rHDkpFzn+nNmRgRlQ==}
+    dev: false
 
   /@iconify/types@2.0.0:
     resolution: {integrity: sha512-+wluvCrRhXrhyOmRDJ3q8mux9JkKy5SJ/v8ol2tu4FVjyYvtEzkc/3pK15ET6RKg4b4w4BmTk1+gsCUhf21Ykg==}
