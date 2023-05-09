@@ -2,7 +2,7 @@ import type { Component } from 'solid-js';
 
 const App: Component = () => {
   return (
-    <div>Hello space trader</div>
+    <div class="font-bold">Hello space trader</div>
   );
 };
 
